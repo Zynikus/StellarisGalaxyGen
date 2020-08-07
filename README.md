@@ -1,0 +1,2 @@
+# StellarisGalaxyGen
+Stellaris Map Editor
